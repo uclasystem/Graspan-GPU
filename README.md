@@ -27,3 +27,4 @@ Note that the filter flag is a switch to optimize the performance of dataflow an
 * [**Zhiqiang Zuo**](https://z-zhiqiang.github.io/) - *Assistant Professor, Nanjing University*
 * **Yiyu Zhang** - *PhD Student, Nanjing University*
 * **Shenming Lu** - *Master Student, Nanjing University*
+* [**Harry Xu**](http://www.cs.ucla.edu/~harryxu) - *Associate Professor, UCLA*
