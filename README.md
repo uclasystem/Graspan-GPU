@@ -3,7 +3,10 @@ Welcome to the home repository of Graspan-G.
 
 Graspan-G is a scalable GPU-based out-of-core graph system for interprocedural static analysis.
 
-This Readme (under revision) provides a how-to-use guide for Graspan-G.
+This Readme (under revision) provides a how-to-use guide for Graspan-GPU.
+
+A full description of Graspan and its GPU backend can be found on our [TOCS'21 paper](http://www.cs.ucla.edu/~harryxu/papers/graspan-tocs21.pdf).
+
 ## Getting Started
 ### Required Libraries
 Ensure that you have a recent version(10.2 in our project) of the CUDA Toolkit and the Boost library installed in your system.
